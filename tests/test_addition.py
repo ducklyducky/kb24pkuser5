@@ -1,4 +1,4 @@
-from kb25pkuser5.addition import add
+from kb24pkuser5.addition import add
 
 def test_add():
     assert add(2, 3) == 5
